@@ -1,0 +1,12 @@
+num1=50
+num2=30
+add=num1+num2
+subtract=num1-num2
+multiply=num1*num2
+divide=num1/num2
+modulus=num1%num2
+print(add)
+print(subtract)
+print(multiply)
+print(divide)
+print(modulus)
