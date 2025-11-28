@@ -1,0 +1,5 @@
+print("hello world!")
+print("tuaha")
+print("chess,among us,99 nights in the forest")
+print("5+7")
+print(5+7)
