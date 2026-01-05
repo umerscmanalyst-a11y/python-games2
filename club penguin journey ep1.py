@@ -1,0 +1,16 @@
+num1=50
+num2=40
+num3=10
+num4=90
+num5=20
+num6=100
+subtract=num1-num3
+add=num5+num2
+modulus=num1%num6
+multiply=num3*num4
+divide=num2/num6
+print(add)
+print(subtract)
+print(multiply)
+print(modulus)
+print(divide)
