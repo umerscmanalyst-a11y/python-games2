@@ -1,0 +1,27 @@
+num1=500
+num2=1000
+num3=1500
+num4=2000
+add=num1+num2+num3
+subtract=num2-num4-num3
+multiply=num1*num2*num4
+divide=num1/num2/num3/num4
+print(add)
+print(subtract)
+print(multiply)
+print(divide)
+num5=900
+num6=50000
+num7=97
+num8=597
+add=num1+num4+num8
+subtract=num7-num5
+multiply=num8*num5*num2
+divide=num6/num7/num8
+modulus=num1%num2%num3%num4%num5%num6%num7%num8
+print(add)
+print(subtract)
+print(multiply)
+print(divide)
+print(modulus)
+print("wait its the code!")
